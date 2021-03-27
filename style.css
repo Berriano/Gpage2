@@ -1,0 +1,34 @@
+.grid-container { display: grid;
+
+                grid-template-rows: auto auto auto;
+                grid-template-columns: auto auto auto;
+                width: 100%;
+              
+              
+}
+.grid1 {width:100% ;}
+
+#grid1-ul {display: inline;
+list-style-type: none;}
+#grid1-li {display: inline;}
+
+
+.grid2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+
+
+#grid3-ul {display: inline;
+    list-style-type: none;}
+#grid3-li {display: inline;}
+
+
+.grid5 { 
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
